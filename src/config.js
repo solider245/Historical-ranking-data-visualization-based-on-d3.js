@@ -46,10 +46,10 @@
 
   // 附加信息内容。
   // left label
-  itemLabel: "左侧文字",
+  itemLabel: "英雄",
 
   // right label
-  typeLabel: "右侧文字",
+  typeLabel: "霸榜天数",
   // 榜首项目信息的水平位置 。
   item_x: 250,
 
@@ -81,7 +81,7 @@
   // 这里控制着数值的显示位数。主要靠修改中间的数字完成，如果为1则为保留一位小数。
   // 逗号表示每隔三位数用","分割
   // '.2f' mains keep two decimals.
-  format: ",.0f",
+  format: ",.2f",
 
   // 后缀
   postfix: "",
